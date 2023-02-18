@@ -6,6 +6,6 @@ Investigated the cross-sell rate between DNA testing kits and their platform sub
 
 -----
 
-### Here's a demo of the website:
+### Here's a demo of the presentation-ready notebook:
 
 ![Alt Text](https://api.apify.com/v2/key-value-stores/gn89xrJe3gE0nhxGM/records/htmlpreview.github.io-scroll_original)

@@ -3,7 +3,7 @@
 ### Investigated the cross-sell rate between a DNA testing kit and its platform subscription purchase via Exploratory Data Analysis 
 
 Check out the rendered output qs a website here <a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/harishasan001/cross-sell-investigation/main/cross%20sell%20investigation.html">here</a>
----------
+
 
 ### Here's a demo:
 

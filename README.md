@@ -1,9 +1,9 @@
 # Cross-sell Investigation
-----------
-### Investigated the cross-sell rate between a DNA testing kit and its platform subscription purchase via Exploratory Data Analysis 
+Investigated the cross-sell rate between a DNA testing kit and its platform subscription purchase via Exploratory Data Analysis 
 
 <a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/harishasan001/cross-sell-investigation/main/cross%20sell%20investigation.html">Rendered website</a>
 
+![alt text](conclusion_EDA.PNG)
 
 ### Here's a demo:
 
